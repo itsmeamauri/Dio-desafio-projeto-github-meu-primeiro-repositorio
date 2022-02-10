@@ -1,0 +1,2 @@
+Link paradownload do gitbash: https://git-scm.com/download/win
+O git Bash é uma ferramenta/terminal necessárioao longo do curso de git e github
